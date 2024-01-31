@@ -2,7 +2,6 @@ package com.dialiax.contactsmanagerapp.viewUI
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
-import androidx.databinding.Bindable
 import androidx.databinding.DataBindingUtil
 import androidx.recyclerview.widget.RecyclerView
 import com.dialiax.contactsmanagerapp.R
