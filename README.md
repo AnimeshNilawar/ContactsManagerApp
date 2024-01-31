@@ -46,7 +46,7 @@ Ensure that you have the following installed:
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/contacts-manager-app.git`
+1. Clone the repository: `git clone https://github.com/AnimeshNilawar/ContactsManagerApp`
 2. Open the project in Android Studio.
 3. Build and run the app on an emulator or physical device.
 
